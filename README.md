@@ -3,9 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Web & Mobile Computing @ Rochester Institute of Technology.
 - 💼 &nbsp; Working as a freelance software developer and tutoring students in web development.
-- 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
