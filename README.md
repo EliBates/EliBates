@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- Founder of [Bates WebTech LLC](https://www.bateswebtech.com/)
+- Owner of [Bates WebTech LLC](https://www.bateswebtech.com/)
 - 💼 &nbsp; Working as a software developer and tutoring students in web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
