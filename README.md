@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - Owner of [Bates WebTech LLC](https://www.bateswebtech.com/)
-- 💼 &nbsp; Working as a software developer and tutoring students in web development.
+- 💼 &nbsp; Working as a freelance software developer and tutoring students in web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -46,5 +46,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.elibates.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.elibates.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.bateswebtech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.elibates.com-blue?style=flat-square&logo=google-chrome"></a>
 </p>
