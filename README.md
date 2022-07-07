@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- Director of [Bates WebTech LLC](https://www.bateswebtech.com/)
+- 🤔 &nbsp; Loves exploring new technologies and developing software solutions for businesses primarily in the U.S. and Europe.
+- 👤 &nbsp; Director of [Bates WebTech LLC](https://www.bateswebtech.com/)
 - 💼 &nbsp; I've worked in the past as a freelance software developer and a web development tutor.
 - 🪖 &nbsp; Previously worked as a Communications Technician in the U.S. Department of Defense.
 - 
@@ -18,8 +18,11 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=Supabase&logoColor=3ECF8E)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken&logoColor=179287)
+
 - 🎨 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -36,5 +39,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.bateswebtech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bateswebtech.com.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.bateswebtech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bateswebtech.com-blue?style=flat-square&logo=google-chrome"></a>
 </p>
