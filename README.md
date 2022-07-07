@@ -2,6 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+<p align="left">
+<a href="https://www.bateswebtech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bateswebtech.com-blue?style=flat-square&logo=google-chrome"></a>
+</p>
+
 - 🤔 &nbsp; Loves exploring new technologies and developing software solutions for businesses primarily in the U.S. and Europe.
 - 👤 &nbsp; Director of [Bates WebTech LLC](https://www.bateswebtech.com/)
 - 💼 &nbsp; I've worked in the past as a freelance software developer and a web development tutor.
@@ -40,8 +44,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliBates&theme=buefy&layout=compact" />
 </a>
 
-<br/>
 
-<p align="center">
-<a href="https://www.bateswebtech.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.bateswebtech.com-blue?style=flat-square&logo=google-chrome"></a>
-</p>
