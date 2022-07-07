@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - Owner of [Bates WebTech LLC](https://www.bateswebtech.com/)
-- 💼 &nbsp; Working as a freelance software developer and tutoring students in web development.
+- 💼 &nbsp; I've worked in the past as a freelance software developer and tutoring students in web development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
