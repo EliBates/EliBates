@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Loves exploring new technologies and developing software solutions for businesses primarily in the U.S. and Europe.
 - 👤 &nbsp; Director of [Bates WebTech LLC](https://www.bateswebtech.com/)
-- 💼 &nbsp; I've worked in the past as a freelance software developer and a web development tutor.
+- 💼 &nbsp; I've worked in the past as a freelance software developer and a enjoy teaching web development.
 - 🪖 &nbsp; Previously worked as a Communications Technician in the U.S. Department of Defense.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
