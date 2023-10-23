@@ -8,9 +8,7 @@
 
 👋 Hey! I'm a tech enthusiast who's always on the hunt for exciting new technologies and crafting innovative software solutions to tackle challenges.
 
-🚀 At Bates WebTech LLC, I lead the way in creating awesome custom software experiences for our clients.
-
-🛠️ With a background as a freelance software developer, I not only enjoy building cool stuff but also love sharing my web development knowledge through teaching.
+🛠️ With a background as a software developer, I not only enjoy building cool stuff but also love sharing my web development knowledge through teaching.
 
 🌐 Previously served as a Communications Technician in the U.S. Department of Defense, where I honed my skills in maintaining secure and reliable communication systems.
 
